@@ -1,10 +1,12 @@
 # Proxy Node Executable
 
-# 1. Clone the installation package
-# git clone https://github.com/s31b18/pnode
-# 2. Decompress the tar
+# 1. Download the installation package
+# wget https://github.com/s31b18/proxy_node_runtime/raw/master/proxy_node.tar.gz
+# 2. Decompress the installation package
 # tar zxvf proxy_node.tar.gz 
-# 3. Run install.sh
+# 3. Go to decompressed directory
+# cd afs_pnode_r
+# 4. Run install.sh
 # sh install.sh
 ----------------------
 Use
