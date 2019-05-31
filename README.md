@@ -7,7 +7,7 @@
 # 3. Go to decompressed directory
 # cd afs_pnode_r
 # 4. Run install.sh
-# sh install.sh
+# sudo sh install.sh
 ----------------------
 Use
 ----------------------
