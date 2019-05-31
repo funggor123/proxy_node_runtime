@@ -6,7 +6,16 @@
 # tar zxvf proxy_node.tar.gz 
 # 3. Run install.sh
 # sh install.sh
-# 4. Follow the instructions of the install.sh
-# 5. Start the service
+----------------------
+Use
+----------------------
+# 1. Start the service
 # service pnode start
+# 2. Check the service has started
+# service pnode status
+# 3. Stop the service 
+# service pnode stop
+
+
+
 
